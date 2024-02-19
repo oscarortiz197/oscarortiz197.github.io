@@ -8,7 +8,7 @@
 </head>
 <body>
    <h1>Política de Privacidad de Compress</h1>
-
+<img src="https://yosoy.dev/wp-content/uploads/2012/08/hqdefault.jpg">
 Fecha de entrada en vigor: 14/08/2023
 
 <h2>Información que Recopilamos:</h2>
