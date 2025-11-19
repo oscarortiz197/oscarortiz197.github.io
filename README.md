@@ -8,7 +8,7 @@
 </head>
 <body>
 
-   <h1> Política de Privacidad de Memory Game</h1>
+   <h1> Política de Privacidad de PDF Lite</h1>
 <h2> Introducción</h2>
 <p>
 En Memory Game, valoramos y respetamos su privacidad. Esta Política de Privacidad describe cómo manejamos la información que recopilamos cuando utiliza nuestra aplicación. Al utilizar Memory Game, usted acepta las prácticas descritas en esta política.
