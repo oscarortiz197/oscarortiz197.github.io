@@ -214,7 +214,7 @@ Al utilizar compress, aceptas los términos y condiciones de esta política de p
   <h2>11. Contacto</h2>
   <p>Si tienes preguntas, inquietudes o deseas solicitar aclaraciones respecto a esta Política de Privacidad, por favor contáctanos:</p>
   <div class="contact">
-    <p><strong>Correo:</strong> <a href="mailto:tu-correo@ejemplo.com">tu-correo@ejemplo.com</a></p>
+    <p><strong>Correo:</strong> <a href="oscarortiz197orellana@gmail.com">oscarortiz197orellana@gmail.com</a></p>
     <p><strong>Aplicación:</strong> PDF lite</p>
   </div>
   <p>Reemplaza la dirección de correo anterior por la dirección de contacto que prefieras.</p>
