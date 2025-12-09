@@ -71,7 +71,7 @@ Esta Política de Privacidad está diseñada para informarle sobre cómo manejam
 -->
 
 
-<!--
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -109,9 +109,9 @@ Al utilizar compress, aceptas los términos y condiciones de esta política de p
 </body>
 </html>
 
--->
 
 
+<!--
 <!doctype html>
 
 <html lang="es">
@@ -230,4 +230,4 @@ Al utilizar compress, aceptas los términos y condiciones de esta política de p
 </body>
 </html>
 
-
+-->
