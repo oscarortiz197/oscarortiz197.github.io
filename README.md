@@ -68,7 +68,7 @@ Esta Política de Privacidad está diseñada para informarle sobre cómo manejam
 </html>
 
 
--->
+
 
 
 
@@ -109,9 +109,9 @@ Al utilizar compress, aceptas los términos y condiciones de esta política de p
 </body>
 </html>
 
+-->
 
 
-<!--
 <!doctype html>
 
 <html lang="es">
@@ -142,7 +142,7 @@ Al utilizar compress, aceptas los términos y condiciones de esta política de p
       <p>Gracias por utilizar <strong>PDF lite</strong>. En esta Política de Privacidad explicamos cómo gestionamos la información dentro de nuestra aplicación para Android, cuyo propósito principal es permitir la visualización de documentos PDF almacenados en el dispositivo del usuario.</p>
     </header>
 
-```
+
 <section>
   <h2>1. Resumen</h2>
   <p><strong>PDF lite</strong> está diseñada para trabajar exclusivamente con archivos almacenados localmente en el dispositivo. <strong>No recolectamos, almacenamos ni transmitimos</strong> información personal o de uso a servidores externos. Tampoco usamos cookies, publicidad ni tecnologías de rastreo.</p>
@@ -230,4 +230,4 @@ Al utilizar compress, aceptas los términos y condiciones de esta política de p
 </body>
 </html>
 
--->
+
